@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Malsha Amadi</h1>
-<h3 align="center">A Software Engineering student in University of Westminster</h3>
+<h3 align="center">A Software Engineering student in University of Westminster.</h3>
 
 - 🌱 I’m currently learning **Java,Recat**
 
